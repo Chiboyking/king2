@@ -1,0 +1,15 @@
+.gradient-text {
+      background: linear-gradient(to right, rgb(136, 115, 115), rgb(217, 224, 113));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .lead {
+      font-size: 1.2em;
+      line-height: 1.6;
+    }
+ <p class="gradient-text lead">
+  Hello! My name is CHIBOY, and I’m an aspiring web developer currently learning the basics of HTML and CSS.
+    I'm passionate about building clean, simple websites and learning how the web works behind the scenes.
+    Though I’m at the beginning of my journey, I’m excited to keep improving my skills every day.
+  </p>
